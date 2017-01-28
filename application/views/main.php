@@ -11,7 +11,7 @@
 <body>
 <div class="container">
     <div class="row col-md-12">
-        <h1>Get orders from <?=date('Y-m-d', strtotime('-7 days'))?></h1>
+        <h1>Get orders from</h1>
         <div class="row">
             <label class="col-md-2 control-label" for="todayRadio">Today</label>
             <div class="col-md-10">
